@@ -1,0 +1,15 @@
+# Big dataset (never upload)
+data/
+
+# Big training checkpoint (never upload)
+last_checkpoint.pth
+
+# Python and Jupyter junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Windows / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
